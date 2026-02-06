@@ -1,5 +1,5 @@
-package javacc;
-public class CC {
+package jaja;
+public class cc {
     public void startSecureProcess() {
         // 確保 PqcStandardSuite.java 在同一個目錄下
         PqcStandardSuite suite = new PqcStandardSuite();
