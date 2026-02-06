@@ -1,4 +1,4 @@
-package jaja; // 確保對應你的資料夾名稱
+
 
 import java.security.MessageDigest;
 
